@@ -1,0 +1,38 @@
+http://intentor.com.br/otimizacao-de-jogos-com-unity-3d/
+https://docs.unity3d.com/410/Documentation/ScriptReference/index.Performance_Optimization.html
+http://alvanista.com/gradash/posts/2998859-o-que-e-otimizacao
+https://unity3d.com/pt/learn/tutorials/topics/performance-optimization/optimizing-scripts-unity-games?playlist=44069
+http://www.pcgamer.com/what-optimization-really-means-in-games/
+http://www.gamasutra.com/view/feature/1879/the_top_10_myths_of_video_game_.php?print=1
+Unity 5 Game Optimization Livro
+http://www.gamasutra.com/view/feature/132084/sponsored_feature_common_.php
+https://docs.unity3d.com/Manual/MobileOptimisation.html
+https://newzoo.com/insights/articles/the-global-games-market-will-reach-108-9-billion-in-2017-with-mobile-taking-42/  20 abril 2017
+http://www.pepwuper.com/top-10-reasons-to-choose-unity-3d-for-app-and-game-development/
+https://www.youtube.com/watch?v=rbZJbSru7FA 21/04
+https://www.youtube.com/watch?v=ZukcUv3pyXQ 26/04
+https://docs.unity3d.com/430/Documentation/Manual/DrawCallBatching.html
+https://www.nvidia.com/docs/IO/8228/BatchBatchBatch.pdf
+https://docs.unity3d.com/Manual/DrawCallBatching.html
+http://blog.theknightsofunity.com/mobile-optimization-batching-unity/
+https://docs.unity3d.com/Manual/CollidersOverview.html
+https://docs.unity3d.com/Manual/ExecutionOrder.html
+https://docs.unity3d.com/Manual/TimeFrameManagement.html
+https://docs.unity3d.com/Manual/class-TimeManager.html
+https://docs.unity3d.com/Manual/RigidbodiesOverview.html
+https://docs.unity3d.com/ScriptReference/CollisionDetectionMode.html
+https://unity3d.com/pt/learn/tutorials/topics/performance-optimization/optimizing-garbage-collection-unity-games
+https://docs.unity3d.com/Manual/MobileOptimizationPracticalScriptingOptimizations.html
+https://docs.unity3d.com/Manual/MobileOptimizationScriptingMethods.html
+https://docs.unity3d.com/Manual/MobileOptimizationPracticalGuide.html
+https://docs.unity3d.com/Manual/MobileOptimizationPracticalScriptingOptimizations.html
+https://docs.unity3d.com/Manual/UnderstandingAutomaticMemoryManagement.html
+http://www.gamasutra.com/blogs/WendelinReich/20131109/203841/C_Memory_Management_for_Unity_Developers_part_1_of_3.php
+http://www.gamasutra.com/blogs/WendelinReich/20131119/203842/C_Memory_Management_for_Unity_Developers_part_2_of_3.php
+http://www.gamasutra.com/blogs/WendelinReich/20131127/203843/C_Memory_Management_for_Unity_Developers_part_3_of_3.php
+https://docs.unity3d.com/ScriptReference/MonoBehaviour.Update.html
+
+
+Imagens
+1 - https://docs.unity3d.com/uploads/Main/StaticTagInspector.png
+2 - https://docs.unity3d.com/Manual/ExecutionOrder.html
